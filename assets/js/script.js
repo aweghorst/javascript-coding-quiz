@@ -21,6 +21,7 @@ startButton.addEventListener('click', startGame);
 function startGame() {
   timeValue = 75;
   startTimer();
+  userInitials.classList.add('hide');
   startButton.classList.add('hide');
   questionContainerEl.classList.remove('hide');
   introContainerEl.classList.add('hide');
@@ -154,6 +155,7 @@ function saveLocally() {
 function viewHighScores() {
   introEl.classList.add('hide');
   introContainerEl.classList.add('hide');
+  highScoresBtn.classList.add('hide');
   var savedScores = localStorage.getItem("userScore");
   savedScores = JSON.parse(savedScores);
   introEl.classList.remove('hide')
