@@ -8,10 +8,11 @@ This is a timed coding quiz challenge about basic Javascript fundamentals.
 * JS
 
 ## Website
-https://aweghorst.github.io/alexs-developer-portfolio/
+https://aweghorst.github.io/javascript-coding-quiz/
 
 ##ScreenShot
-![Alex's Portfolio](https://user-images.githubusercontent.com/80176140/113527091-04939500-9582-11eb-82d0-eedcd787ef7a.png)
+![ScreenShot](https://user-images.githubusercontent.com/80176140/115181738-320e3180-a09e-11eb-91b0-257e3f7017d9.png)
+
 
 
 ## Contribution
